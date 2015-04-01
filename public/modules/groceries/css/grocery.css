@@ -1,0 +1,6 @@
+.list-group-item-heading{
+	float: left;
+	position: relative;
+	display: block;
+	margin-left: 15px;
+}
